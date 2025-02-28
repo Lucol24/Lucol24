@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there I'm Gigi 👋
+🌍 From Italy 
 🌱 I’m currently studying Software Engineering in Denmark! 
 <!--
 **Lucol24/Lucol24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
